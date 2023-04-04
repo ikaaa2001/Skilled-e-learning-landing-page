@@ -973,6 +973,8 @@ body {
         padding-left: 32px;
         padding-top: 64px;
         margin-top: 250px;
+	padding-top: 0px;
+        padding-left: 0px;
     }
     
     .box-3-h2 {
