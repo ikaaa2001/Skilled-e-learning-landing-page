@@ -4,12 +4,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    overflow-x: hidden;
 }
 
 /* mobile responsive */
 
-@media screen and (max-width: 480px){
+@media screen and (min-width: 480px){
     body {
         font-family: 'plus jakarta sans';
         width: 375px;
@@ -408,7 +407,7 @@
 
 /* tablet responsive */
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
     body {
         font-family: 'plus jakarta sans';
         width: 768px;
